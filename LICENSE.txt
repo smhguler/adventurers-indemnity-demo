@@ -1,0 +1,21 @@
+CLAIM DENIED – PUBLIC DEMO LICENSE
+
+Copyright (c) 2026 Claim Denied Development Team.
+All rights reserved.
+
+This software is provided solely for personal, non-commercial testing,
+demonstration, press coverage, and evaluation purposes.
+
+You may download, install, and play the public demo.
+
+You may not:
+- redistribute, resell, sublicense, or commercially exploit the demo;
+- copy, extract, modify, reverse engineer, or reuse its source code or assets;
+- claim ownership of the game or any part of its contents;
+- use the game's artwork, audio, characters, designs, or other assets
+  in another project.
+
+Third-party assets remain subject to their respective licenses.
+
+For permission requests, contact:
+smh.guler@gmail.com
