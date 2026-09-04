@@ -1,0 +1,6 @@
+# This repository tracks release documentation only.
+# Compiled demos are published as GitHub Release assets.
+*
+!.gitignore
+!README.md
+!LICENSE.txt
