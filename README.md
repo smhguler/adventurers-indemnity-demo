@@ -4,6 +4,8 @@
 
 **Adventurer's Indemnity**, fantastik bir krallıkta geçen kara mizah tonunda bir sigorta yönetim oyunudur. Zindandan dönen maceracıların hasar taleplerini inceler, kanıtları değerlendirir ve ödeme ya da ret kararı verirsiniz. Kararlarınız şirketin ekonomisini, itibarını ve maceracıların kaderini etkiler.
 
+Bu public demo, üç aylık geliştirme sürecimizin güncel oynanabilir sürümüdür.
+
 ## Windows demosu
 
 - **Sürüm:** 0.24.0-demo
@@ -39,6 +41,8 @@ Demo kişisel ve ticari olmayan test, değerlendirme, inceleme ve basın kullan�
 ## English
 
 **Adventurer's Indemnity** is a darkly comic insurance management game set in a fantasy kingdom. Review adventurers' claims, investigate the evidence, and decide whether to pay or deny each case. Your decisions affect the company's finances, its reputation, and the adventurers' fates.
+
+This public demo represents the current playable build after three months of development.
 
 [Download the latest Windows demo](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest)
 
