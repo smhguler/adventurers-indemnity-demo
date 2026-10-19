@@ -8,7 +8,7 @@
 
 ## Windows demosu
 
-- **Sürüm:** 0.33.10-demo
+- **Sürüm:** 0.33.11-demo
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -21,7 +21,7 @@ Gazete ofiste okunur; fare tekerleği sayfanın tamamını kaydırır. İşler b
 
 Bekleyen yeni sözleşmeler masada kapalı parşömen olarak görünür. Parşömene tıklayarak görüşmeyi açabilirsiniz. Karakterlerin zemine düşen gölgeleri için kapıdaki mevcut ışığın konumu ve yönü düzeltildi.
 
-Ana menüde resmî Tusvaren Games stüdyo logosu yer alır.
+Ana menüde resmî Tusvaren Games stüdyo logosu yer alır. Mühür, kâğıt, para, ahşap, kapı, gün sonu çanı ve adım sesleri doğal kayıtlarla yenilendi. Adımlar yalnız gerçekten yürürken duyulur; ses düzeyi Ayarlar menüsünden değiştirilebilir.
 
 ## Kurulum
 
@@ -56,7 +56,7 @@ Read the newspaper over the live office and scroll the entire page with the mous
 
 Waiting new contracts appear as closed scrolls on the desk. Click a scroll to open its negotiation. The existing doorway light was repositioned and aimed to cast character shadows onto the floor.
 
-The main menu includes the official Tusvaren Games studio logo.
+The main menu includes the official Tusvaren Games studio logo. Natural recordings replace the seal, paper, coin, wood, door, day-end bell and footstep effects. Footsteps follow actual movement; adjust the volume in Settings.
 
 [Download the latest Windows demo](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest/download/Adventurers_Indemnity_Windows_Demo.rar)
 
