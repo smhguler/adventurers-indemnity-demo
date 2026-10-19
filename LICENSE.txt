@@ -7,6 +7,9 @@ This software is provided solely for personal, non-commercial testing,
 demonstration, press coverage, and evaluation purposes.
 
 You may download, install, and play the public demo.
+You may record and livestream gameplay footage, including the included game music
+and sound effects, and monetize those videos and streams.
+This permission covers gameplay coverage; it does not permit reselling the demo.
 
 You may not:
 - redistribute, resell, sublicense, or commercially exploit the demo;
