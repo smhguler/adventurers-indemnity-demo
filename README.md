@@ -8,7 +8,7 @@
 
 ## Windows demosu
 
-- **Sürüm:** 0.33.9-demo
+- **Sürüm:** 0.33.10-demo
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -20,6 +20,8 @@
 Gazete ofiste okunur; fare tekerleği sayfanın tamamını kaydırır. İşler bitince masa boş kalır, mevcut poliçelere **Sözleşmelerim** üzerinden ulaşılır. **F10** arayüzü gizler veya geri getirir; **Esc** görüntü alma modundan çıkar.
 
 Bekleyen yeni sözleşmeler masada kapalı parşömen olarak görünür. Parşömene tıklayarak görüşmeyi açabilirsiniz. Karakterlerin zemine düşen gölgeleri için kapıdaki mevcut ışığın konumu ve yönü düzeltildi.
+
+Ana menüde resmî Tusvaren Games stüdyo logosu yer alır.
 
 ## Kurulum
 
@@ -53,6 +55,8 @@ Play a ten-day demo in Turkish or English: negotiate contracts, inspect damaged 
 Read the newspaper over the live office and scroll the entire page with the mouse wheel. Finished jobs leave an empty desk; **My Contracts** keeps existing policies accessible. **F10** hides or restores the UI for screenshots; **Esc** exits screenshot mode.
 
 Waiting new contracts appear as closed scrolls on the desk. Click a scroll to open its negotiation. The existing doorway light was repositioned and aimed to cast character shadows onto the floor.
+
+The main menu includes the official Tusvaren Games studio logo.
 
 [Download the latest Windows demo](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest/download/Adventurers_Indemnity_Windows_Demo.rar)
 
