@@ -8,7 +8,7 @@
 
 ## Windows demosu
 
-- **Sürüm:** 0.33.12-demo
+- **Sürüm:** 0.33.13-demo
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -16,6 +16,8 @@
 [En güncel Windows demosunu indir](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest/download/Adventurers_Indemnity_Windows_Demo.rar)
 
 [Steam’de istek listesine ekle](https://store.steampowered.com/app/5368470/Adventurers_Indemnity/)
+
+0.33.13 güncellemesi: İlk gün rehber adımı geride kaldığında mühürlerin kilitlenmesi düzeltildi. Parşömenlerde rakamların aralığı ve gazete görsellerinin hizası düzeltildi. Asanın görünen çatlaklarına tıklayarak hasarı işaretleyebilirsiniz; hasar formunun altındaki tutanak açıklaması kaldırıldı.
 
 Gazete ofiste okunur; fare tekerleği sayfanın tamamını kaydırır. İşler bitince masa boş kalır, mevcut poliçelere **Sözleşmelerim** üzerinden ulaşılır. **F10** arayüzü gizler veya geri getirir; **Esc** görüntü alma modundan çıkar.
 
@@ -55,6 +57,8 @@ Demo test, değerlendirme, inceleme ve basın kullanımı için sunulur. Gelir e
 **Adventurer's Indemnity** is a darkly comic insurance management game set in a fantasy kingdom. Review adventurers' claims, investigate the evidence, and decide whether to pay or deny each case. Your decisions affect the company's finances, its reputation, and the adventurers' fates.
 
 Play a ten-day demo in Turkish or English: negotiate contracts, inspect damaged equipment and decide which claims to pay.
+
+Version 0.33.13 fixes first-day decision stamps when guidance progress lags behind, overlapping parchment numerals, newspaper image alignment and staff crack selection. The report footer has been removed from claim forms.
 
 Read the newspaper over the live office and scroll the entire page with the mouse wheel. Finished jobs leave an empty desk; **My Contracts** keeps existing policies accessible. **F10** hides or restores the UI for screenshots; **Esc** exits screenshot mode.
 
