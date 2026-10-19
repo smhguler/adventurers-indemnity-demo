@@ -8,7 +8,7 @@
 
 ## Windows demosu
 
-- **Sürüm:** 0.33.7-demo
+- **Sürüm:** 0.33.8-demo
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -16,6 +16,8 @@
 [En güncel Windows demosunu indir](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest/download/Adventurers_Indemnity_Windows_Demo.rar)
 
 [Steam’de istek listesine ekle](https://store.steampowered.com/app/5368470/Adventurers_Indemnity/)
+
+Gazete ofiste okunur; fare tekerleği sayfanın tamamını kaydırır. İşler bitince masa boş kalır, mevcut poliçelere **Sözleşmelerim** üzerinden ulaşılır. **F10** arayüzü gizler veya geri getirir; **Esc** görüntü alma modundan çıkar.
 
 ## Kurulum
 
@@ -45,6 +47,8 @@ Demo kişisel ve ticari olmayan test, değerlendirme, inceleme ve basın kullan�
 **Adventurer's Indemnity** is a darkly comic insurance management game set in a fantasy kingdom. Review adventurers' claims, investigate the evidence, and decide whether to pay or deny each case. Your decisions affect the company's finances, its reputation, and the adventurers' fates.
 
 Play a ten-day demo in Turkish or English: negotiate contracts, inspect damaged equipment and decide which claims to pay.
+
+Read the newspaper over the live office and scroll the entire page with the mouse wheel. Finished jobs leave an empty desk; **My Contracts** keeps existing policies accessible. **F10** hides or restores the UI for screenshots; **Esc** exits screenshot mode.
 
 [Download the latest Windows demo](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest/download/Adventurers_Indemnity_Windows_Demo.rar)
 
