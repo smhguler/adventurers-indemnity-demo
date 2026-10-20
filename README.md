@@ -8,7 +8,7 @@
 
 ## Windows demosu
 
-- **Sürüm:** 0.33.14-demo
+- **Sürüm:** 0.33.15-demo
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -17,7 +17,9 @@
 
 [Steam’de istek listesine ekle](https://store.steampowered.com/app/5368470/Adventurers_Indemnity/)
 
-0.33.14 güncellemesi: Kapıdaki hareketli teleport efekti geri getirildi ve müşteri geliş-gidişi görünen kapı yüzeyine bağlandı. Kazma sapındaki kesimin yönü düzeltildi; kesilen sap enine kısalır. Kılıç saplarında bağlantılı uç korunur.
+0.33.15 güncellemesi: Çekiç başlığına ait hasarlar metal başlıkta, kürenin çember çatlağı metal çemberde görünür. Bu dosyada cam küre sağlam kalır. Hasar yerleşimi mevcut modellerin gerçek parçalarından ölçülür.
+
+Önceki düzeltmeler de içerilir: Kapıdaki hareketli teleport efekti geri getirildi ve müşteri geliş-gidişi görünen kapı yüzeyine bağlandı. Kazma sapındaki kesimin yönü düzeltildi; kesilen sap enine kısalır. Kılıç saplarında bağlantılı uç korunur.
 
 Önceki düzeltmeler de dahildir: ilk gün rehber adımı geride kaldığında mühürler kilitlenmez. Parşömen rakamları ve gazete görsellerinin hizası düzeltildi. Asanın görünen çatlaklarına tıklayarak hasarı işaretleyebilirsiniz; hasar formunun altındaki tutanak açıklaması kaldırıldı.
 
@@ -60,7 +62,9 @@ Demo test, değerlendirme, inceleme ve basın kullanımı için sunulur. Gelir e
 
 Play a ten-day demo in Turkish or English: negotiate contracts, inspect damaged equipment and decide which claims to pay.
 
-Version 0.33.14 restores the animated doorway portal and binds customer arrivals and departures to the visible door surface. Pick handle cuts now shorten the handle across its own axis; sword handles retain the attached end.
+Version 0.33.15 places hammer-head damage on the metal head and orb-rim cracks on the metal support band. The glass sphere remains intact in the rim-crack case. Damage placement uses the actual parts of the existing models.
+
+Also includes the restored animated doorway portal, with customer arrivals and departures bound to the visible door surface. Pick handle cuts now shorten the handle across its own axis; sword handles retain the attached end.
 
 Also includes the fixes for first-day decision stamps when guidance progress lags behind, overlapping parchment numerals, newspaper image alignment and staff crack selection. The report footer has been removed from claim forms.
 
