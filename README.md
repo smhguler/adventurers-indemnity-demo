@@ -8,7 +8,7 @@
 
 ## Windows demosu
 
-- **Sürüm:** 0.33.13-demo
+- **Sürüm:** 0.33.14-demo
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -17,7 +17,9 @@
 
 [Steam’de istek listesine ekle](https://store.steampowered.com/app/5368470/Adventurers_Indemnity/)
 
-0.33.13 güncellemesi: İlk gün rehber adımı geride kaldığında mühürlerin kilitlenmesi düzeltildi. Parşömenlerde rakamların aralığı ve gazete görsellerinin hizası düzeltildi. Asanın görünen çatlaklarına tıklayarak hasarı işaretleyebilirsiniz; hasar formunun altındaki tutanak açıklaması kaldırıldı.
+0.33.14 güncellemesi: Kapıdaki hareketli teleport efekti geri getirildi ve müşteri geliş-gidişi görünen kapı yüzeyine bağlandı. Kazma sapındaki kesimin yönü düzeltildi; kesilen sap enine kısalır. Kılıç saplarında bağlantılı uç korunur.
+
+Önceki düzeltmeler de dahildir: ilk gün rehber adımı geride kaldığında mühürler kilitlenmez. Parşömen rakamları ve gazete görsellerinin hizası düzeltildi. Asanın görünen çatlaklarına tıklayarak hasarı işaretleyebilirsiniz; hasar formunun altındaki tutanak açıklaması kaldırıldı.
 
 Gazete ofiste okunur; fare tekerleği sayfanın tamamını kaydırır. İşler bitince masa boş kalır, mevcut poliçelere **Sözleşmelerim** üzerinden ulaşılır. **F10** arayüzü gizler veya geri getirir; **Esc** görüntü alma modundan çıkar.
 
@@ -58,7 +60,9 @@ Demo test, değerlendirme, inceleme ve basın kullanımı için sunulur. Gelir e
 
 Play a ten-day demo in Turkish or English: negotiate contracts, inspect damaged equipment and decide which claims to pay.
 
-Version 0.33.13 fixes first-day decision stamps when guidance progress lags behind, overlapping parchment numerals, newspaper image alignment and staff crack selection. The report footer has been removed from claim forms.
+Version 0.33.14 restores the animated doorway portal and binds customer arrivals and departures to the visible door surface. Pick handle cuts now shorten the handle across its own axis; sword handles retain the attached end.
+
+Also includes the fixes for first-day decision stamps when guidance progress lags behind, overlapping parchment numerals, newspaper image alignment and staff crack selection. The report footer has been removed from claim forms.
 
 Read the newspaper over the live office and scroll the entire page with the mouse wheel. Finished jobs leave an empty desk; **My Contracts** keeps existing policies accessible. **F10** hides or restores the UI for screenshots; **Esc** exits screenshot mode.
 
