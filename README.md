@@ -9,6 +9,8 @@
 ## Windows demosu
 
 - **Sürüm:** 0.33.15-demo
+- **Paket güncellemesi:** 26 Ekim 2026 — 25 Ekim yeni ofis derlemesi
+- **İndirme boyutu:** yaklaşık 385 MB (RAR)
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -16,6 +18,10 @@
 [En güncel Windows demosunu indir](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest/download/Adventurers_Indemnity_Windows_Demo.rar)
 
 [Steam’de istek listesine ekle](https://store.steampowered.com/app/5368470/Adventurers_Indemnity/)
+
+26 Ekim paketi yenilenmiş ofis sahnesini, yeni masa ve oda kaplamalarını, pencere manzaralarını ve güncel eşya inceleme yerleşimini içerir. Mevcut 10 günlük dosya akışı, Türkçe / İngilizce arayüz ve dört seçilebilir müzik korunur.
+
+Bilinen eksikler: pencere manzarasının alt bölümünde görüntü gerilmesi görülebilir; bazı eşya modelleri ve parçaları geliştirme aşamasındadır.
 
 0.33.15 güncellemesi: Çekiç başlığına ait hasarlar metal başlıkta, kürenin çember çatlağı metal çemberde görünür. Bu dosyada cam küre sağlam kalır. Hasar yerleşimi mevcut modellerin gerçek parçalarından ölçülür.
 
@@ -61,6 +67,10 @@ Demo test, değerlendirme, inceleme ve basın kullanımı için sunulur. Gelir e
 **Adventurer's Indemnity** is a darkly comic insurance management game set in a fantasy kingdom. Review adventurers' claims, investigate the evidence, and decide whether to pay or deny each case. Your decisions affect the company's finances, its reputation, and the adventurers' fates.
 
 Play a ten-day demo in Turkish or English: negotiate contracts, inspect damaged equipment and decide which claims to pay.
+
+The 26 October package includes the updated office scene, new desk and room materials, window views and current item-inspection placement. It retains the ten-day demo, Turkish / English interface and four selectable music tracks. Download size: approximately 385 MB (RAR).
+
+Known limitations: the lower part of the window view can stretch, and some item models and parts are still in development.
 
 Version 0.33.15 places hammer-head damage on the metal head and orb-rim cracks on the metal support band. The glass sphere remains intact in the rim-crack case. Damage placement uses the actual parts of the existing models.
 
