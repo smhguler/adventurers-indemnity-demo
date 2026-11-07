@@ -8,9 +8,9 @@
 
 ## Windows demosu
 
-- **Sürüm:** 0.33.15-demo
-- **Paket güncellemesi:** 26 Ekim 2026 — 25 Ekim yeni ofis derlemesi
-- **İndirme boyutu:** yaklaşık 385 MB (RAR)
+- **Sürüm:** 0.34.0-demo
+- **Paket güncellemesi:** 7 Kasım 2026 — deneme derlemesi
+- **İndirme boyutu:** yaklaşık 392 MB (RAR)
 - **Platform:** Windows 10 ve Windows 11
 - **Dil:** Türkçe / English
 - **Oyun motoru:** Unity
@@ -18,6 +18,8 @@
 [En güncel Windows demosunu indir](https://github.com/smhguler/adventurers-indemnity-demo/releases/latest/download/Adventurers_Indemnity_Windows_Demo.rar)
 
 [Steam’de istek listesine ekle](https://store.steampowered.com/app/5368470/Adventurers_Indemnity/)
+
+**0.34.0 bir deneme derlemesidir, son hâli değildir.** Yeni kristal küre ve fener modelleri eklendi. Borin'in zırhı, kemeri, çizmeleri ve kollukları ile Gareth'in zırhı ve pantolonu için karaktere özel inceleme modelleri eklendi. Brevian'ın dosyası artık yırtık, kavrulmuş ve çatlak bir tören sancağıdır. Üçüncü günden itibaren bazı genel dosyalar kurallarla üretilir; kısmi ödeme de üçüncü gün açılır.
 
 26 Ekim paketi yenilenmiş ofis sahnesini, yeni masa ve oda kaplamalarını, pencere manzaralarını ve güncel eşya inceleme yerleşimini içerir. Mevcut 10 günlük dosya akışı, Türkçe / İngilizce arayüz ve dört seçilebilir müzik korunur.
 
@@ -68,7 +70,9 @@ Demo test, değerlendirme, inceleme ve basın kullanımı için sunulur. Gelir e
 
 Play a ten-day demo in Turkish or English: negotiate contracts, inspect damaged equipment and decide which claims to pay.
 
-The 26 October package includes the updated office scene, new desk and room materials, window views and current item-inspection placement. It retains the ten-day demo, Turkish / English interface and four selectable music tracks. Download size: approximately 385 MB (RAR).
+**Version 0.34.0 is a test build, not the final version.** It adds new crystal orb and lantern models, and character-specific inspection models for Borin's armour, belt, boots and bracers and Gareth's armour and trousers. Brevian's claim is now a torn, scorched and cracked ceremonial banner. From day three some generic claims are generated from rules, and partial payment unlocks on day three. Download size: approximately 392 MB (RAR).
+
+The 26 October package includes the updated office scene, new desk and room materials, window views and current item-inspection placement. It retains the ten-day demo, Turkish / English interface and four selectable music tracks.
 
 Known limitations: the lower part of the window view can stretch, and some item models and parts are still in development.
 
